@@ -1,7 +1,7 @@
 import function as fp
 import re
 
-#admin email: guest@gmail.com, password: Guest_123456
+#guest user email: guest@gmail.com, password: Guest_123456
 
 while True :
     print("************************\n*                      *")
