@@ -36,3 +36,7 @@ option 2:
 
 option 3:
   exit the program
+
+
+Name: Tan Zheng Wey
+Matric: 284471
