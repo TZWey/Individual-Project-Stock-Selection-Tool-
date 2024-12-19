@@ -1,9 +1,11 @@
-import function as fp
+import functions as fp
 import re
-
+import os
 #guest user email: guest@gmail.com, password: Guest_123456
 
+os.system('cls')
 while True :
+    
     print("************************\n*                      *")
     print("*      Wlecome to      *\n* Stock Selection Tool *\n*        System        *")
     print("*                      *\n************************\n")
